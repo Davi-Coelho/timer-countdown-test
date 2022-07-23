@@ -9,7 +9,7 @@ $(document).ready(function () {
 });
 
 let countUpFunction = null
-const finalDate = new Date('2022/07/23 19:33').getTime()
+const finalDate = new Date('2022/07/23 20:33').getTime()
 
 const playTime = () => {
     countUpFunction = setInterval(function () {
